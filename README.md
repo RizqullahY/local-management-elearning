@@ -1,0 +1,8 @@
+Nama : RAFLY RIZQULLAH YUSUF
+NIM : 056529861
+Program Studi : Sains Data
+
+---
+
+### LIST MACRO WOOTOMATION
+1. f12
